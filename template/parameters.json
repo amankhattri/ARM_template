@@ -9,7 +9,7 @@
             "value": "mysqldbuser"
         },
         "administratorLoginPassword": {
-            "value": null
+            "value": "aman@1234"
         },
         "mysqLocation": {
             "value": "West India"
